@@ -6,6 +6,7 @@ This project performs *Exploratory Data Analysis (EDA)* and *preprocessing* on t
 
 # 📂 Contents
 - housing.ipynb: Full Colab notebook
+- eda_preprocessing_with_scaling.ipynb
 - housing.csv: Dataset file used in analysis 
 
 #  Features
@@ -17,6 +18,9 @@ This project performs *Exploratory Data Analysis (EDA)* and *preprocessing* on t
   - Random Train-Test Split
   - Stratified Shuffle Split based on income_cat
 - Visual insights using *Matplotlib* and *Seaborn*
+- Data Preprocessing
+- Missing Value Replacement
+- Scaling
 
 # 📊 Technologies Used
 - Python 3
@@ -32,6 +36,9 @@ This project performs *Exploratory Data Analysis (EDA)* and *preprocessing* on t
 - How to prepare data for machine learning models
 - How to apply stratified sampling for better generalization
 - How to interpret correlation between features
+- How to perform Data Preprocessing
+- How to replace missing values
+- How to perform Scaling
 
 #  Author
 Subhranil Dutta
