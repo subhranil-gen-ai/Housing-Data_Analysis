@@ -5,7 +5,7 @@ Exploratory Data Analysis and ML-ready preprocessing on the Housing dataset usin
 This project performs *Exploratory Data Analysis (EDA)* and *preprocessing* on the Housing dataset. It includes real-world techniques to clean, explore, visualize, and prepare the data for machine learning.
 
 # 📂 Contents
-- housing_analysis.ipynb: Full Colab notebook
+- housing.ipynb: Full Colab notebook
 - housing.csv: Dataset file used in analysis 
 
 #  Features
