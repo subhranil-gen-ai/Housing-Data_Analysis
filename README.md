@@ -21,6 +21,9 @@ This project performs *Exploratory Data Analysis (EDA)* and *preprocessing* on t
 - Data Preprocessing
 - Missing Value Replacement
 - Scaling
+- Categorical Preprocessing
+- Ordinal Encoding
+- OneHot Encoding
 
 # 📊 Technologies Used
 - Python 3
@@ -39,6 +42,9 @@ This project performs *Exploratory Data Analysis (EDA)* and *preprocessing* on t
 - How to perform Data Preprocessing
 - How to replace missing values
 - How to perform Scaling
+- How to perform Categorical Preprocessing
+- How to perform Ordinal Encoding
+- How to perform OneHot Encoding
 
 #  Author
 Subhranil Dutta
