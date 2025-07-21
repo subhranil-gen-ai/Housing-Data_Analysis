@@ -6,7 +6,8 @@ This project performs *Exploratory Data Analysis (EDA)* and *preprocessing* on t
 
 # 📂 Contents
 - housing.ipynb: Full Colab notebook
-- eda_preprocessing_with_scaling.ipynb
+- eda_preprocessing_with_scaling.ipynb: Full Colab notebook with updates 
+- Encoder.ipynb: Full Colab notebook with updates
 - housing.csv: Dataset file used in analysis 
 
 #  Features
