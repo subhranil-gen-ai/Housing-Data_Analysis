@@ -7,9 +7,10 @@ This project performs *Exploratory Data Analysis (EDA)* and *preprocessing* on t
 # 📂 Contents
 - housing.ipynb: Full Colab notebook
 - eda_preprocessing_with_scaling.ipynb: Full Colab notebook with updates 
-- Encoder.ipynb: Full Colab notebook with updates
+- Encoder.ipynb: Full Colab notebook with Encoder
 - Data_Pipeline_Linear_Regression.ipynb: Full Colab notebook with Data Pipeline and Linear Regression
-- housing.csv: Dataset file used in analysis 
+- Housing_Data_Analysis_and_Modeling.ipynb: Just a recap of what I've donee till now
+- housing.csv: Dataset file used in analysis
 
 #  Features
 - Data preview using .head(), .info(), .describe()
@@ -27,6 +28,7 @@ This project performs *Exploratory Data Analysis (EDA)* and *preprocessing* on t
 - Ordinal Encoding
 - OneHot Encoding
 - Data Pipeline
+- Custom Transformers
 - Linear Regression
 
 # 📊 Technologies Used
@@ -49,6 +51,9 @@ This project performs *Exploratory Data Analysis (EDA)* and *preprocessing* on t
 - How to perform Categorical Preprocessing
 - How to perform Ordinal Encoding
 - How to perform OneHot Encoding
+- How and When to perform Pipelining
+- How and When to perform Custom Transformers
+- How to perform Linear Regression
 
 #  Author
 Subhranil Dutta
