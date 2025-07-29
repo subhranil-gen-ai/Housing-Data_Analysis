@@ -10,6 +10,7 @@ This project performs *Exploratory Data Analysis (EDA)* and *preprocessing* on t
 - Encoder.ipynb: Full Colab notebook with Encoder
 - Data_Pipeline_Linear_Regression.ipynb: Full Colab notebook with Data Pipeline and Linear Regression
 - Housing_Data_Analysis_and_Modeling.ipynb: Just a recap of what I've donee till now
+- KFold-CrossVal-Hyperparameter-Tuning.ipynb:  Full Colab notebook with K-Fold CV, Hyperparameter Tuning, Random Forest, and Decision Tree.
 - housing.csv: Dataset file used in analysis
 
 #  Features
@@ -30,6 +31,10 @@ This project performs *Exploratory Data Analysis (EDA)* and *preprocessing* on t
 - Data Pipeline
 - Custom Transformers
 - Linear Regression
+- Decision Tree Regression
+- Random Forest Regression
+- K-Fold CV
+- Hyperparameter Tuning
 
 # 📊 Technologies Used
 - Python 3
@@ -38,6 +43,7 @@ This project performs *Exploratory Data Analysis (EDA)* and *preprocessing* on t
 - Matplotlib
 - Seaborn
 - Scikit-learn
+- Scipy
 - Google Colab
 
 # 🧠 What I Learned
@@ -54,6 +60,10 @@ This project performs *Exploratory Data Analysis (EDA)* and *preprocessing* on t
 - How and When to perform Pipelining
 - How and When to perform Custom Transformers
 - How to perform Linear Regression
+- How to perform Decision Tree Regression
+- How to perform Random Forest Regression
+- How to perform K-Fold CV
+- How to perform Hyperparameter Tuning
 
 #  Author
 Subhranil Dutta
